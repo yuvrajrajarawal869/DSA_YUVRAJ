@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1769c496-35be-480e-b3ad-78c4753c0b0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/EvenNumberSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1769c496-35be-480e-b3ad-78c4753c0b0a" name="Changes" comment="EvenNumberSum.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array/demo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661141155204</updated>
     </task>
+    <task id="LOCAL-00001" summary="EvenNumberSum.java">
+      <created>1661143038483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661143038483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EvenNumberSum.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="EvenNumberSum.java" />
   </component>
 </project>

@@ -8,7 +8,7 @@ public class find_the_Smalest_and_largest_number_in_array {
     public find_the_Smalest_and_largest_number_in_array(int n, int[] arr) {
         int min = arr[0];
         int max = arr[0];
-        for (int i=0; i<n; i++){
+        for (int i=1; i<n; i++){
            this.min = Math.min(arr[i],min);
            this.max = Math.max(arr[i],max);
         }

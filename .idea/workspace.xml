@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1769c496-35be-480e-b3ad-78c4753c0b0a" name="Changes" comment="Basic DSA">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/AverageOfTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Find_Number_present_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Max__Number_of_index_of_binary_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Number_of_Odd_element_and_Even_in_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/SubString_StartAndEnd_with_same_car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Such_Pairs_isEqul_to_k.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/SumOFOdd_And_Even_which_is_greter_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Unit_Consumed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/find_the_Smalest_and_largest_number_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Such_Pairs_equal_to_k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/find_Average_Of_array_with_multiple_test_case.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/find_the_Smalest_and_largest_number_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/find_the_Smalest_and_largest_number_in_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,29 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Such_Pairs_isEqul_to_k">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_DSA.Main" />
-      <module name="DSA_YUVRAJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic_DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Such_Pairs_equal_to_k">
     <configuration name="Max__Number_of_index_of_binary_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic_DSA.Max__Number_of_index_of_binary_Array" />
       <module name="DSA_YUVRAJ" />
@@ -102,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Such_Pairs_equal_to_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic_DSA.Such_Pairs_equal_to_k" />
+      <module name="DSA_YUVRAJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic_DSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Such_Pairs_isEqul_to_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic_DSA.Such_Pairs_isEqul_to_k" />
       <module name="DSA_YUVRAJ" />
@@ -117,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Such_Pairs_equal_to_k" />
         <item itemvalue="Application.Such_Pairs_isEqul_to_k" />
         <item itemvalue="Application.SubString_StartAndEnd_with_same_car" />
         <item itemvalue="Application.Number_of_Odd_element_and_Even_in_Array" />
         <item itemvalue="Application.Max__Number_of_index_of_binary_Array" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661146324641</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Basic DSA">
+      <created>1661252911923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661252911923</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

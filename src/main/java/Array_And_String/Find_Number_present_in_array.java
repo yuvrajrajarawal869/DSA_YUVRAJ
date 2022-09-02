@@ -1,4 +1,4 @@
-package Basic_DSA;
+package Array_And_String;
 
 //You are given an array of N integers. You need to printYesif 42 is present in array, else printNo.
 

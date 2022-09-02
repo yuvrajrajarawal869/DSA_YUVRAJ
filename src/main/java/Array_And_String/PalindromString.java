@@ -1,4 +1,4 @@
-package Basic_DSA;
+package Array_And_String;
 
 public class PalindromString {
     String Palindrom(String x){

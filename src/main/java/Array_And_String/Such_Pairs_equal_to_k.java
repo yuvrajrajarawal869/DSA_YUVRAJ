@@ -1,9 +1,8 @@
-package Basic_DSA;
+package Array_And_String;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.stream.Stream;
 
 public class Such_Pairs_equal_to_k{
@@ -15,7 +14,7 @@ public class Such_Pairs_equal_to_k{
     }
 
     void Method(int i, int k, int[] arr, int n) {
-        for (int j = i; j < n; j++) {
+        for (int j = i+1; j < n; j++) {
             if (arr[i] + arr[j] == k) {
                 count++;
             }

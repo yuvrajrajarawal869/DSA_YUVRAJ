@@ -1,4 +1,4 @@
-package Basic_DSA;
+package Array_And_String;
 import java.util.*;
    //  You need to printOdd, if thesum of all odd numberspresent in the array is
    //  greater thansum of all the even numberspresent in the array, or else printEven.

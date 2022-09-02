@@ -1,8 +1,8 @@
-package Basic_DSA;
+package Array_And_String;
 
 import java.util.*;
 
-// You are given a strings, you have to find thecountof all such
+// You are given a strings, you have to find thereunto all such
 // substrings which start and ends with the same character
 public class SubString_StartAndEnd_with_same_car {
     static int  coun;

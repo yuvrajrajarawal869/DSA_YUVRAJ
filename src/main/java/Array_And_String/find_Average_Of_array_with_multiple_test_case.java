@@ -1,4 +1,4 @@
-package Basic_DSA;
+package Array_And_String;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Basic_DSA;
+package Array_And_String;
 
 //You are given an arrayAofNintegers along with a target integerK.
 //Your task is to find out the number of pairs of integers present in the array, whose sum is equal to

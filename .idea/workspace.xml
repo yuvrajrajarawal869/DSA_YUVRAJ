@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1769c496-35be-480e-b3ad-78c4753c0b0a" name="Changes" comment="Basic DSA">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/String_Value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Encryption_Scheme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Even_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Next_Greater_Odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/demo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/demo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/AverageOfTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/AverageOfTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/Find_Number_present_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/Find_Number_present_in_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/Max__Number_of_index_of_binary_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/Max__Number_of_index_of_binary_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/Number_of_Odd_element_and_Even_in_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/Number_of_Odd_element_and_Even_in_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/PalindromNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/PalindromNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/PalindromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/PalindromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/SubString_StartAndEnd_with_same_car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/SubString_StartAndEnd_with_same_car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/Such_Pairs_equal_to_k.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/Such_Pairs_equal_to_k.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/Such_Pairs_isEqul_to_k.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/Such_Pairs_isEqul_to_k.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/SumOFOdd_And_Even_which_is_greter_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/SumOFOdd_And_Even_which_is_greter_in_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/find_Average_Of_array_with_multiple_test_case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/find_Average_Of_array_with_multiple_test_case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Basic_DSA/find_the_Smalest_and_largest_number_in_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/find_the_Smalest_and_largest_number_in_array.java" afterDir="false" />
-    </list>
+    <list default="true" id="1769c496-35be-480e-b3ad-78c4753c0b0a" name="Changes" comment="Array and String Problem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,18 +29,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "F:/Data Structure And algorithms/DSA_YUVRAJ",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.Basic_DSA.Even_Palindrome">
-    <configuration name="Basic_DSA.Encryption_Scheme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_DSA.Encryption_Scheme" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Array_And_String.MatrixInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_And_String.MatrixInput" />
       <module name="DSA_YUVRAJ" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Basic_DSA.Even_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_DSA.Even_Palindrome" />
+    <configuration name="Array_And_String.ReverseRows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_And_String.ReverseRows" />
       <module name="DSA_YUVRAJ" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubString_StartAndEnd_with_same_car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_And_String.SubString_StartAndEnd_with_same_car" />
+    <configuration name="Array_And_String.Sum_of_all_element_less_than_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_And_String.Sum_of_all_element_less_than_k" />
       <module name="DSA_YUVRAJ" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Such_Pairs_equal_to_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_And_String.Such_Pairs_equal_to_k" />
+    <configuration name="Array_And_String.find_Average_Of_array_with_multiple_test_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_And_String.find_Average_Of_array_with_multiple_test_case" />
       <module name="DSA_YUVRAJ" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Such_Pairs_isEqul_to_k" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_And_String.Such_Pairs_isEqul_to_k" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_And_String.Main" />
       <module name="DSA_YUVRAJ" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Basic_DSA.Even_Palindrome" />
-        <item itemvalue="Application.Basic_DSA.Encryption_Scheme" />
-        <item itemvalue="Application.Array_And_String.Such_Pairs_equal_to_k" />
-        <item itemvalue="Application.Array_And_String.Such_Pairs_isEqul_to_k" />
-        <item itemvalue="Application.Basic_DSA.SubString_StartAndEnd_with_same_car" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Array_And_String.MatrixInput" />
+        <item itemvalue="Application.Array_And_String.find_Average_Of_array_with_multiple_test_case" />
+        <item itemvalue="Application.Array_And_String.ReverseRows" />
+        <item itemvalue="Application.Array_And_String.Sum_of_all_element_less_than_k" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661834523828</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Array and String Problem">
+      <created>1662107036353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662107036353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +184,8 @@
     <MESSAGE value="EvenNumberSum.java" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Basic DSA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic DSA" />
+    <MESSAGE value="Array and String Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array and String Problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -205,6 +195,10 @@
           <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

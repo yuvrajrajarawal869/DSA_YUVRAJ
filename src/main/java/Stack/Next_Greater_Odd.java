@@ -3,6 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.stream.Stream;
+
 public class Next_Greater_Odd {
     class stack {
         int top = -1;

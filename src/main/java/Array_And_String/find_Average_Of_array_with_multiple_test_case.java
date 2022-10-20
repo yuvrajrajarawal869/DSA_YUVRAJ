@@ -3,11 +3,12 @@ package Array_And_String;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.stream.Stream;
 
 public class find_Average_Of_array_with_multiple_test_case {
         int sum;
-        boolean method(int n, int m, int[] array) {
+        boolean method(int n, int m, int[] array){
             int left=0;
             int right = n-1;
             while (left<n & right>=0){

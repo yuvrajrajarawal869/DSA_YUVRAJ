@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1769c496-35be-480e-b3ad-78c4753c0b0a" name="Changes" comment="Array and String Problem" />
+    <list default="true" id="1769c496-35be-480e-b3ad-78c4753c0b0a" name="Changes" comment="Array and String Problem">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/MatrixInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/ReverseRows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/Sum_of_all_element_less_than_k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basic_DSA/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BubbleShort/NewSortingAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BubbleShort/SortOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSort/ShortMernShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuickSort/ShortArray_in_reverces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Push_Pop_and_Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Push_pop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Reduce_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/UsingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/reduce_the_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Array_And_String/find_Average_Of_array_with_multiple_test_case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_And_String/find_Average_Of_array_with_multiple_test_case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/Next_Greater_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/Next_Greater_Odd.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662107036353</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Array and String Problem">
+      <created>1666236515967</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666236515967</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
